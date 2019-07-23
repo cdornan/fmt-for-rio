@@ -1,0 +1,8 @@
+resolver: lts-13.29
+
+packages:
+- .
+
+extra-deps:
+- enum-text-rio-1.2.0.0
+- enum-text-0.5.1.0
